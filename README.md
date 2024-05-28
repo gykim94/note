@@ -36,3 +36,5 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅�
 | 두 자리 정수 | `10`부터 `90`개 |
 
 난수 생성의 원리가 궁금하시다면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인할 수 있습니다.
+
+![카지노 이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRoiyyOJ4szDfpBmeO4NNHl1ETGbJ_5MlOg&s)
